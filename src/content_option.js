@@ -14,7 +14,8 @@ const introdata = {
   },
   description:
     "I am a software engineer, Full Stack web and mobile apps developer with a passion for creating beautiful and functional user experiences. I have delivered world-class user experiences to hundreds of people. I am well-versed with React, Javascript, and most of the Web frameworks. I have worked with startups and large companies to deliver high-quality software solutions. I am always looking for new challenges and opportunities to learn and grow.",
-  your_img_url: "images/profile.jpeg",
+  your_img_url:
+    "https://raw.githubusercontent.com/ahmadhassankhan701/ahk_portfolio/refs/heads/main/src/assets/images/profile.jpeg",
 };
 
 const dataabout = {
