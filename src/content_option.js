@@ -72,6 +72,14 @@ const services = [
 
 const dataportfolio = [
   {
+    img: "https://portfolio-two-rho-45.vercel.app/images/projects/cover.jpg",
+    description: "My Designs",
+    link: "https://drive.google.com/drive/folders/1XQTuYrfqWSZEQ0JAkWL7uSfu0-fLXK1D?usp=drive_link",
+    solution:
+      "Designs for startups, shops and restaurant owners and cool brands",
+    stack: "ADOBE PHOTOSHOP, ADOBE ILLUSTRATOR, CANVA, MIDJOURNEY",
+  },
+  {
     img: "https://portfolio-two-rho-45.vercel.app/images/projects/property_view.png",
     description: "Property View - Real Estate Platform",
     link: "https://propertyview.com.pk/",
@@ -173,7 +181,7 @@ const dataportfolio = [
 
 const contactConfig = {
   YOUR_EMAIL: "ahmadhassankhan701@gmail.com",
-  YOUR_FONE: "(+974) 5036-4653",
+  YOUR_FONE: "(+974) 7172-5051",
   description:
     "I am always open to discussing new projects, creative ideas, or opportunities to be part of your vision. If you have any questions or just want to say hello, feel free to reach out to me via email or phone.",
   // creat an emailjs.com account
