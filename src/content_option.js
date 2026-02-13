@@ -13,7 +13,7 @@ const introdata = {
     third: "I develop mobile apps",
   },
   description:
-    "Hi, I'm Ahmad — I build fast, scalable frontend and mobile applications using React, Next.js, and React Native.",
+    "Hi, I'm Ahmad — I build fast, scalable websites, mobile and desktop applications using React, Next.js, Electron.js and React Native.",
   your_img_url:
     "https://raw.githubusercontent.com/ahmadhassankhan701/ahk_portfolio/refs/heads/main/src/assets/images/profile.jpeg",
 };
@@ -72,7 +72,7 @@ const services = [
 
 const dataportfolio = [
   {
-    img: "https://portfolio-two-rho-45.vercel.app/images/projects/cover.jpg",
+    img: "/images/graphic_tn.jpg",
     description: "My Designs",
     link: "https://drive.google.com/drive/folders/1XQTuYrfqWSZEQ0JAkWL7uSfu0-fLXK1D?usp=drive_link",
     solution:
@@ -80,7 +80,7 @@ const dataportfolio = [
     stack: "ADOBE PHOTOSHOP, ADOBE ILLUSTRATOR, CANVA, MIDJOURNEY",
   },
   {
-    img: "https://portfolio-two-rho-45.vercel.app/images/projects/property_view.png",
+    img: "/images/real_estate_tn.png",
     description: "Property View - Real Estate Platform",
     link: "https://propertyview.com.pk/",
     solution:
@@ -88,7 +88,7 @@ const dataportfolio = [
     stack: "WORDPRESS, PHP, HTML, CSS, JavaScript",
   },
   {
-    img: "https://portfolio-two-rho-45.vercel.app/images/projects/picuki.png",
+    img: "/images/picuki_tn.png",
     description: "Picuki - Instagram Viewer and Editor",
     link: "https://www.picuki.com/",
     solution:
@@ -96,7 +96,7 @@ const dataportfolio = [
     stack: "PHP, PHP CODEIGNITER, HTML, CSS, JavaScript",
   },
   {
-    img: "https://portfolio-two-rho-45.vercel.app/images/projects/jooti.png",
+    img: "/images/my_jooti_tn.png",
     description: "My Jooti - Online Shoe Store",
     link: "https://www.myjooti.com/",
     solution:
@@ -104,7 +104,7 @@ const dataportfolio = [
     stack: "WORDPRESS, PHP, HTML, CSS, JavaScript",
   },
   {
-    img: "https://portfolio-two-rho-45.vercel.app/images/projects/umrah_transit.png",
+    img: "/images/umrah_tn.png",
     description: "Umrah Transit - Umrah Transport Booking Platform",
     link: "https://www.umrahtransit.com/",
     solution:
@@ -112,7 +112,7 @@ const dataportfolio = [
     stack: "WORDPRESS, PHP, HTML, CSS, JavaScript",
   },
   {
-    img: "https://portfolio-two-rho-45.vercel.app/images/projects/tracko.png",
+    img: "/images/tracko_tn.png",
     description: "Tracko - Fleet Management System",
     link: "https://tracko.com/",
     solution:
@@ -120,7 +120,7 @@ const dataportfolio = [
     stack: "WORDPRESS, PHP, HTML, CSS, JavaScript",
   },
   {
-    img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfXa2RFDRShkXH03IKgZgsWT069w_AKhsdcQ&s",
+    img: "/images/react_chat_tn.png",
     description: "React Chat Application - Chat App",
     link: "https://www.youtube.com/watch?v=JzHTtnYCTEc",
     solution:
@@ -129,7 +129,7 @@ const dataportfolio = [
   },
 
   {
-    img: "https://i0.wp.com/ketto.blog/wp-content/uploads/2022/03/14-Amazing-Food-Charity-Ideas.png?fit=1920%2C1080&ssl=1",
+    img: "/images/bhoo_mitao_web_tn.png",
     description: "Bhook Mitao - Food Donation Web App",
     link: "https://bhook-mitao.vercel.app/",
     solution:
@@ -137,7 +137,7 @@ const dataportfolio = [
     stack: "React, Node.js, Express.js, MongoDB, FIREBASE",
   },
   {
-    img: "https://portfolio-two-rho-45.vercel.app/images/projects/cleaning_mobile.png",
+    img: "/images/sweeptask_tn.png",
     description: "Sweeptask - Cleaning Service App",
     link: "https://www.youtube.com/watch?v=ruvEXYbwwbY",
     solution:
@@ -145,7 +145,7 @@ const dataportfolio = [
     stack: "React Native, Node.js, Express.js, MongoDB",
   },
   {
-    img: "https://portfolio-two-rho-45.vercel.app/images/projects/audito.png",
+    img: "/images/audito_tn.png",
     description: "Audito - Audit Management System",
     link: "https://www.youtube.com/watch?v=44fh3aa_cuQ",
     solution:
@@ -153,7 +153,7 @@ const dataportfolio = [
     stack: "Expo React Native, Firebase, Node.js, Express.js",
   },
   {
-    img: "https://portfolio-two-rho-45.vercel.app/images/projects/bhook_mitao_mobile.png",
+    img: "/images/bhook_mitao_tn.png",
     description: "Bhook Mitao Mobile - Food Donation App",
     link: "https://www.youtube.com/watch?v=NpmQn1jnSGM",
     solution:
@@ -161,7 +161,7 @@ const dataportfolio = [
     stack: "React Native, Node.js, Express.js, MongoDB, FIREBASE",
   },
   {
-    img: "https://memberpress.com/wp-content/uploads/2020/10/learning-management-system.jpg",
+    img: "/images/lms_tn.png",
     description: "Ilm Desk - Learning Management System",
     link: "https://www.ilmdesk.com/",
     solution:
@@ -169,13 +169,29 @@ const dataportfolio = [
     stack: "NEXT JS, FIREBASE, HTML, CSS, JavaScript",
   },
   {
-    img: "https://img.freepik.com/free-vector/graident-ai-robot-vectorart_78370-4114.jpg?semt=ais_hybrid&w=740",
+    img: "/images/copytrade_tn.png",
     description:
       "Copy Trade - A platform for traders to share their strategies",
     link: "http://ahmad.unlockingwealth.online/",
     solution:
       "Copy Trade allows traders to share their strategies, enabling others to learn and benefit from their expertise.",
     stack: "Node JS, SQL, HTML, CSS, Typescript, JavaScript",
+  },
+  {
+    img: "/images/ijraa_tn.png",
+    description: "Ijraa - A school website for parents having disabled kids",
+    link: "https://ijraa.net/",
+    solution:
+      "This website provides all the necessary information about school to parents who are looking for a learning place for their kids with some disabilities",
+    stack: "WORDPRESS, PHP, HTML, CSS, JavaScript",
+  },
+  {
+    img: "/images/ajyal_tn.png",
+    description: "Ajyal Doha - A school website",
+    link: "https://ajyaldoha.com/",
+    solution:
+      "This website provides all the necessary information about school to parents who are looking for a learning place for their kids",
+    stack: "WORDPRESS, PHP, HTML, CSS, JavaScript",
   },
 ];
 
